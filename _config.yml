@@ -1,1 +1,4 @@
-
+title: My Awesome Website
+description: A short description of my site
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman
